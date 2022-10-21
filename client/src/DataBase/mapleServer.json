@@ -1,0 +1,62 @@
+{
+    "defaultWorld": [
+        {
+            "engName": "scania",
+            "korName": "스카니아"
+        },
+        {
+            "engName": "bera",
+            "korName": "베라"
+        },
+        {
+            "engName": "luna",
+            "korName": "루나"
+        },
+        {
+            "engName": "zenith",
+            "korName": "제니스"
+        },
+        {
+            "engName": "croa",
+            "korName": "크로아"
+        },
+        {
+            "engName": "union",
+            "korName": "유니온"
+        },
+        {
+            "engName": "elysium",
+            "korName": "엘리시움"
+        },
+        {
+            "engName": "enosis",
+            "korName": "이노시스"
+        },
+        {
+            "engName": "red",
+            "korName": "레드"
+        },
+        {
+            "engName": "aurora",
+            "korName": "오로라"
+        },
+        {
+            "engName": "arcain",
+            "korName": "아케인"
+        },
+        {
+            "engName": "nova",
+            "korName": "노바"
+        }
+    ],
+    "rebootWorld": [
+        {
+            "engName": "reboot",
+            "korName": "리부트"
+        },
+        {
+            "engName": "reboot2",
+            "korName": "리부트2"
+        }
+    ]
+}

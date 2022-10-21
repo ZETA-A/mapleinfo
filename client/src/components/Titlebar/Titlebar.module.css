@@ -1,0 +1,5 @@
+#Titlebar {
+    -webkit-app-region: drag;
+    height: 4vh;
+    background-color: transparent;
+}

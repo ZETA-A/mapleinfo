@@ -1,0 +1,23 @@
+{
+    "scripts": {
+        "server": "cd server && nodemon server",
+        "client": "cd client && npm start",
+        "start": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\"",
+        "reinstall": "npm install && cd client && npm install"
+    },
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.12",
+        "concurrently": "^7.4.0",
+        "express": "^4.18.1",
+        "nodemon": "^2.0.19",
+        "puppeteer": "^17.1.3",
+        "react-csv": "^2.2.2",
+        "react-csv-downloader": "^2.8.0"
+    },
+    "name": "maplegg",
+    "version": "1.0.0",
+    "description": "Develop by ZETA-A",
+    "main": "server.js",
+    "author": "ZETA-A",
+    "license": "ISC"
+}
